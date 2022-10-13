@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(38, 155, 155);
+    text-decoration: line-through;
+}
+p {
+    text-align: left;
+    text-indent: 50px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+a {
+    text-decoration: none;
+}
