@@ -1,3 +1,6 @@
 body {
-    background-color: aqua;
+    background-color: lightsalmon;
+    background-image: url(gambar/hutao.png);
+    background-repeat: no-repeat;
+    background-position: top center;
 }
