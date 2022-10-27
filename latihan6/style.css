@@ -1,0 +1,33 @@
+.hello:link {
+    color: chocolate;
+}
+
+.hello:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: aqua;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+.hello:visited {
+    color: red;
+}
+
+li:first-child a {
+    color: green;
+}
+
+li:last-child a {
+    color: green;
+}
+
+li:nth-child(3n-2) {
+    color: green;
+}
+
+p:last-of-type {
+    color: red;
+}
